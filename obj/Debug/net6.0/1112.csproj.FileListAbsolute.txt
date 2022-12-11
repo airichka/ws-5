@@ -1,0 +1,15 @@
+C:\Users\Иришка\Desktop\1112\bin\Debug\net6.0\1112.exe
+C:\Users\Иришка\Desktop\1112\bin\Debug\net6.0\1112.deps.json
+C:\Users\Иришка\Desktop\1112\bin\Debug\net6.0\1112.runtimeconfig.json
+C:\Users\Иришка\Desktop\1112\bin\Debug\net6.0\1112.dll
+C:\Users\Иришка\Desktop\1112\bin\Debug\net6.0\1112.pdb
+C:\Users\Иришка\Desktop\1112\obj\Debug\net6.0\1112.csproj.AssemblyReference.cache
+C:\Users\Иришка\Desktop\1112\obj\Debug\net6.0\1112.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иришка\Desktop\1112\obj\Debug\net6.0\1112.AssemblyInfoInputs.cache
+C:\Users\Иришка\Desktop\1112\obj\Debug\net6.0\1112.AssemblyInfo.cs
+C:\Users\Иришка\Desktop\1112\obj\Debug\net6.0\1112.csproj.CoreCompileInputs.cache
+C:\Users\Иришка\Desktop\1112\obj\Debug\net6.0\1112.dll
+C:\Users\Иришка\Desktop\1112\obj\Debug\net6.0\refint\1112.dll
+C:\Users\Иришка\Desktop\1112\obj\Debug\net6.0\1112.pdb
+C:\Users\Иришка\Desktop\1112\obj\Debug\net6.0\1112.genruntimeconfig.cache
+C:\Users\Иришка\Desktop\1112\obj\Debug\net6.0\ref\1112.dll
